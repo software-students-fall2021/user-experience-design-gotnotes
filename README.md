@@ -57,6 +57,10 @@
 
 ![Search-Uni](./ux-design/desktop-wireframes/home-side-bars-open.jpg)
 
+### File Detail and File Comments
+
+![File-Details](./ux-design/desktop-wireframes/file-details-side-bars-closed.jpg)
+
 ### Home with Chats
 
 ![Search-Uni](./ux-design/desktop-wireframes/home-chat-tabs-open.jpg)
