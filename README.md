@@ -15,23 +15,23 @@
 
 ### Search University, Courses, and Files
 
-- Searching for a University: ![uni-select](./ux-design/mobile-wireframes/uni-select.png)
-- Searching for a Course under Selected University: ![course-select](./ux-design/mobile-wireframes/course-select.png)
-- Searching for a File Under Selected Course: ![file-select](./ux-design/mobile-wireframes/file-select.png)
+- Searching for a University: <br> ![uni-select](./ux-design/mobile-wireframes/uni-select.png)
+- Searching for a Course under Selected University: <br> ![course-select](./ux-design/mobile-wireframes/course-select.png)
+- Searching for a File Under Selected Course: <br> ![file-select](./ux-design/mobile-wireframes/file-select.png)
 
 
 ### File Detail, File Preview
 
-- File Details and Comments: ![file-detail](./ux-design/mobile-wireframes/file.png)
-- Full Screen File Preview Mode: ![file-preview](./ux-design/mobile-wireframes/file-full-screen.png)
+- File Details and Comments: <br> ![file-detail](./ux-design/mobile-wireframes/file.png)
+- Full Screen File Preview Mode: <br> ![file-preview](./ux-design/mobile-wireframes/file-full-screen.png)
 
 ### Search Chats, Group Chat, Chat Details, Private Chat
 
-- Empty Chat: ![empty-chat](./ux-design/mobile-wireframes/empty-chat.png)
-- Listing of User Subscribed Group Chats: ![chat-select](./ux-design/mobile-wireframes/chat-select.png)
-- Chat UI: ![chat](./ux-design/mobile-wireframes/chat.png)
-- Chat Group Details: ![chat-detail](./ux-design/mobile-wireframes/chat-detail.png)
-- Private Chat: ![chat-member](./ux-design/mobile-wireframes/chat-member.png)
+- Empty Chat: <br> ![empty-chat](./ux-design/mobile-wireframes/empty-chat.png)
+- Listing of User Subscribed Group Chats: <br> ![chat-select](./ux-design/mobile-wireframes/chat-select.png)
+- Chat UI: <br> ![chat](./ux-design/mobile-wireframes/chat.png)
+- Chat Group Details: <br> ![chat-detail](./ux-design/mobile-wireframes/chat-detail.png)
+- Private Chat: <br> ![chat-member](./ux-design/mobile-wireframes/chat-member.png)
 
 ### Add File
 
