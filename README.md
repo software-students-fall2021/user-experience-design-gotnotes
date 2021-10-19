@@ -59,7 +59,7 @@
 
 ### File Detail and File Comments
 
-![File-Details](./ux-design/desktop-wireframes/file-details-side-bars-closed.jpg)
+![File-Details](./ux-design/desktop-wireframes/file-detail-side-bars-closed.jpg)
 
 ### Home with Chats
 
